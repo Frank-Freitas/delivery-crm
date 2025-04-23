@@ -1,0 +1,4 @@
+--patch-module
+com.delivery.crm=_
+--add-reads
+com.delivery.crm=ALL-UNNAMED
